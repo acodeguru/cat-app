@@ -1,0 +1,21 @@
+{
+  "name": "cat-app",
+  "version": "1.0.0",
+  "description": "cat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Dinusha Amarathunga",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "mapnik": "^4.5.8",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
