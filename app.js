@@ -36,3 +36,5 @@ async function fetchDetails() {
 
 // receive images
 fetchDetails()
+
+console.log("----------------------------")
